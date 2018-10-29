@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 go();
             }
         });
+        //Test
 //
 //        MMKV kv = MMKV.defaultMMKV();
 //        kv.encode("flag",false);
